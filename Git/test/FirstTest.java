@@ -13,4 +13,9 @@ public class FirstTest {
   public void Test_Y() {
 	  System.out.println("First Test Case");
   }
+  
+  @Test
+  public void Test_Z() {
+	  System.out.println("Z Test Case");
+  }
 }
