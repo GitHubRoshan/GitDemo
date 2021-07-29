@@ -8,4 +8,9 @@ public class FirstTest {
   public void Test() {
 	  System.out.println("First Test Case");
   }
+  
+  @Test
+  public void Test_Y() {
+	  System.out.println("First Test Case");
+  }
 }
