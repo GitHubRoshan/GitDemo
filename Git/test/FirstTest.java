@@ -21,6 +21,6 @@ public class FirstTest {
   
   @Test
   public void Test_Merge() {
-	  System.out.println("M_Z Test Case");
+	  System.out.println("M_Y Test Case");
   }
 }
